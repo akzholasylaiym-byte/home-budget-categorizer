@@ -1,0 +1,6 @@
+pandas
+pdfplumber
+streamlit
+pytest
+python-dotenv
+requests
