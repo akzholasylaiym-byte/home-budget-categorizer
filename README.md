@@ -41,9 +41,8 @@ pytest
 ## Team and responsibilities
 | Member | Part |
 |---|---|
-| [Name 1] | Ingestion, parsers, DB, masking |
-| [Name 2] | Categorization, LLM integration, its evaluation |
-| [Name 3] | Anomaly, budget, UI, their evaluation |
-
+| [Asylaiym| Ingestion, parsers, DB, masking |
+| Asel | Categorization, LLM integration, its evaluation |
+| together| Anomaly, budget, UI, their evaluation |
 ## Use of the agentic tool
 How Claude Code was used (workflow, prompts, what we reviewed or changed): [fill in].
